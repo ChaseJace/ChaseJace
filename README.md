@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChaseJace
-- 👀 Malayan Account so yeah
+- 👀 First year fully using Github, feel free to take peek
 
 <!---
 ChaseJace/ChaseJace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
